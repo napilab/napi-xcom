@@ -1,0 +1,24 @@
+{
+    "editor.renderWhitespace": "boundary",
+    "editor.tabSize": 4,
+    "editor.insertSpaces": true,
+    "editor.trimAutoWhitespace": true,
+    "files.encoding": "utf8",
+    "files.eol": "auto",
+    "files.trimTrailingWhitespace": true,
+    "files.insertFinalNewline": true,
+    "files.trimFinalNewlines": true,
+    "[markdown]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "DavidAnson.vscode-markdownlint",
+        "editor.tabSize": 2,
+    },
+    "markdownlint.config": {
+        "MD029": false,
+        "no-inline-html": {
+            "allowed_elements": [
+                "Redirect",
+            ]
+        }
+    },
+}

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknapi_xcom=self.webpackChunknapi_xcom||[]).push([[472],{5513:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Text","permalink":"/blog/2025/01/09/index","unlisted":false,"date":"2025-01-09T00:00:00.000Z"}]}')}}]);

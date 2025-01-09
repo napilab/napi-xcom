@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://napi-x.com/blog</id>
+    <title>NaPi-X Blog</title>
+    <updated>2025-01-09T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://napi-x.com/blog"/>
+    <subtitle>NaPi-X Blog</subtitle>
+    <icon>https://napi-x.com/img/favicon.svg</icon>
+    <entry>
+        <title type="html"><![CDATA[Text]]></title>
+        <id>https://napi-x.com/blog/2025/01/09/index</id>
+        <link href="https://napi-x.com/blog/2025/01/09/index"/>
+        <updated>2025-01-09T00:00:00.000Z</updated>
+        <author>
+            <name>dmn</name>
+            <uri>https://github.com/dmnovikov</uri>
+        </author>
+    </entry>
+</feed>

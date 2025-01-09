@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknapi_xcom=self.webpackChunknapi_xcom||[]).push([[947],{6600:t=>{t.exports=JSON.parse('{"authors":[{"name":"dmn","title":"NaPi-lab maintainer","url":"https://github.com/dmnovikov","imageURL":"https://avatars.githubusercontent.com/u/17533288?v=4","key":"dmn","page":null,"count":1}]}')}}]);

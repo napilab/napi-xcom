@@ -78,6 +78,15 @@ const config = {
         disableInDev: false,
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'downloads',
+        path: 'downloads',
+        routeBasePath: 'downloads',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
   ],
 
   themeConfig:
@@ -127,6 +136,7 @@ const config = {
             label: "Instructions",
           },
           { to: "/blog", label: "Blog", position: "left" },
+          { to: "/downloads", label: "Downloads", position: "left" },
           // {
           //   href: "https://github.com/napilab",
           //   position: "right",

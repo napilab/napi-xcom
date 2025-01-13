@@ -4,7 +4,7 @@ sidebar_position: -1
 
 # NaPi-docs
 
-Soon...
+Coming soon...
 
 - Recipes and instructions for building NapiOS from Yocto framework;
 

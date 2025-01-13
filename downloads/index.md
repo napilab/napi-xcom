@@ -4,4 +4,6 @@ sidebar_position: 1
 
 # NaPi-X downloads
 
-We are in deep development.
+Coming soon...
+
+We are in deep process to prepare NapiOS images.

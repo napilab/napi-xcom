@@ -55,3 +55,16 @@ sidebar_position: 2
 - **Integration of Sensor Catalog into NapiOS:** Incorporate the sensor catalog directly into NapiOS for seamless access.
 - **Promotion of NapiOS:** Focus on marketing and promoting NapiOS to expand its user base.
 - **Expansion of Platform Support:** Extend support for additional platforms to increase compatibility.
+
+### Q4
+
+- **Beta Version of Napi-X.Api Server-Side:** Release the beta version of the server-side component of Napi-X.Api.
+- **Beta Version of Web Application:** Launch the beta version of the web application for server-based operations.
+- **Testing Authorization and Multi-Device Management:** Conduct testing of authorization and the management of multiple Napi.Dev devices.
+
+## 2026
+
+- **Pre-Release**
+- **Audience Engagement:** Attract and grow the target audience for NapiOS and related projects.
+- **Case Development:** Create use cases and practical examples to showcase the functionality and potential of the system.
+- **Testing**, **Testing**, **Testing**

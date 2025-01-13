@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunknapi_xcom=self.webpackChunknapi_xcom||[]).push([[706],{2417:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"whitepaper"}')}}]);

@@ -8,6 +8,8 @@ hide_table_of_contents: true
 
 :fire: Everything you need to manage embedded and network devices:fire:
 
+![](img/napi-x-first-logo-small.png)
+
 Out team is hardly working on the development of:
 
 - The NapiOS operating system from strach with integrated embedded futures;
@@ -16,15 +18,29 @@ Out team is hardly working on the development of:
 
 ### Components of Napi-X
 
-- **Napi-X.OS** — the NapiOS operating system, optimized for embedded and networking devices, based on Linux. It includes built-in software for working with sensors and data streams out of the box (Grafana, Telegraf, InfluxDB, Mosquitto).
+- **Napi-X.OS** — the **NapiOS** operating system, optimized for embedded and networking devices, based on Linux. It includes built-in software for working with sensors and data streams out of the box (Grafana, Telegraf, InfluxDB, Mosquitto).
 
 - **Napi-X.API** — an interface for managing NapiOS's core settings and working with sensors.
 
 - **Napi-X.WebApp** — a web application for device management based on NapiOS.
 
+- **Napi-X.Device** — device, running by NapiOS with Napi-X.Api. Any computer or single-board platform that supports Linux. Single-board computers based on RockChip and NXP chips are well-suite
+
 - **Napi-X.Server** — a server platform for centralized device management under NapiOS. It implements the concept of Software-Defined Device Management (SDDM) and includes a web application for authorizing and managing multiple devices.
 
+## A fast first look
+
+This is what a Napi-X looks like with stanalone Napi-X.Dev and a possible workflow in real life.
+
+![](img/napi-x-standalone-1.png)
+
+This is what a Software-Defined Device Management (SDDM) system looks like. The operator manages multiple devices from a single interface and can perform identical actions on all devices simultaneously.
+
+![](img/napi-x-system-1.png)
+
 ### Napi-X Architecture Diagram
+
+This is the interaction architecture of components in the NApi-X system operation.
 
 ![alt text](img/napi-x-arch-2.png)
 

@@ -87,6 +87,15 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'whitepaper',
+        path: 'whitepaper',
+        routeBasePath: 'whitepaper',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
   ],
 
   themeConfig:
@@ -129,14 +138,17 @@ const config = {
         },
         hideOnScroll: false,
         items: [
+          { to: "/whitepaper", label: "Whitepaper", position: "left" },
           {
             type: "docSidebar",
             sidebarId: "tutorialSidebar",
             position: "left",
             label: "Documentation",
           },
+
           { to: "/blog", label: "Blog", position: "left" },
           { to: "/downloads", label: "Downloads", position: "left" },
+
           // {
           //   href: "https://github.com/napilab",
           //   position: "right",

@@ -146,7 +146,7 @@ const config = {
             label: "Documentation",
           },
 
-          { to: "/blog", label: "Blog", position: "left" },
+          { to: "/blog", label: "Announcements", position: "left" },
           { to: "/downloads", label: "Downloads", position: "left" },
 
           // {

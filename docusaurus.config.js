@@ -87,12 +87,22 @@ const config = {
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
+
     [
       '@docusaurus/plugin-content-docs',
       {
         id: 'whitepaper',
         path: 'whitepaper',
         routeBasePath: 'whitepaper',
+        sidebarPath: require.resolve('./sidebars.js'),
+      },
+    ],
+    [
+      '@docusaurus/plugin-content-docs',
+      {
+        id: 'contacts',
+        path: 'contacts',
+        routeBasePath: 'contacts',
         sidebarPath: require.resolve('./sidebars.js'),
       },
     ],
@@ -148,7 +158,7 @@ const config = {
 
           { to: "/blog", label: "Announcements", position: "left" },
           { to: "/downloads", label: "Downloads", position: "left" },
-
+          { to: "/contacts", label: "Contacts", position: "left" },
           // {
           //   href: "https://github.com/napilab",
           //   position: "right",

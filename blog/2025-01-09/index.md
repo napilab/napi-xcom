@@ -4,7 +4,7 @@ authors: dmn
 ---
 ## Manifest
 
-We want to present the manifest of Napi-X in first post.
+In first post we want to present the manifest of Napi-X.
 
 ## Our Goal
 

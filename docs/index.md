@@ -6,7 +6,7 @@ sidebar_position: -1
 
 Coming soon...
 
-- Recipes and instructions for building NapiOS from Yocto framework;
+- Manuals and instructions for building NapiOS from Yocto framework;
 
 - NaPi-X.API guide and examples;
 

@@ -10,7 +10,7 @@ hide_table_of_contents: true
 
 ![](img/napi-x-first-logo-small.png)
 
-Out team is hardly working on the development of:
+Out team is working hard on the development of:
 
 - The NapiOS operating system from strach with integrated embedded futures;
 - Powerfull API for managing devices with NapiOS;
@@ -28,9 +28,9 @@ Out team is hardly working on the development of:
 
 - **Napi-X.Server** — a server platform for centralized device management under NapiOS. It implements the concept of Software-Defined Device Management (SDDM) and includes a web application for authorizing and managing multiple devices.
 
-## A fast first look
+## A quick first look
 
-This is what a Napi-X looks like with stanalone Napi-X.Dev and a possible workflow in real life.
+This is what a Napi-X looks like with standalone Napi-X.Dev and a possible workflow in real life.
 
 ![](img/napi-x-standalone-1.png)
 
@@ -62,7 +62,7 @@ This provides the following key benefits:
 
 We make Linux simple and enjoyable for use in embedded systems.
 
-### Special futures of NapiOS for embedded and network devices
+### Special features of NapiOS for embedded and network devices
 
 The system can boot either from partition 1 (/dev/mmcblk1p1) or partition 2 (/dev/mmcblk1p2). During a system update, one of the partitions (the older one) is updated. If the update fails, the system will boot from the other partition. Partition 3 (/dev/mmcblk1p3) is used for user data and contains all configurations, user files, databases, etc. To create a backup, it is not necessary to copy the entire system; backing up this partition is sufficient. To "reset" the system, all you need to do is erase the data in this partition.
 

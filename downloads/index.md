@@ -6,4 +6,7 @@ sidebar_position: 1
 
 Coming soon...
 
-We are in deep process to prepare NapiOS images.
+NapiOS is currently in active
+development, and we are working
+towards releasing the NapiOS images
+very soon.

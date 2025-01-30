@@ -6,9 +6,17 @@ hide_table_of_contents: true
 
 # Napi-X Ecosystem
 
-:fire: Everything you need to manage embedded and network devices:fire:
+![napi-x](img/napi-x-first-logo-small.png)
 
-![](img/napi-x-first-logo-small.png)
+<!-- :fire: ***Everything you need to manage embedded and network devices***:fire: -->
+
+## Mini news
+
+:fire: **Look at [screenshots](/whitepaper/screenshots/) of Napi.App** :fire:
+
+## What is Napi-X
+
+>***Everything you need to manage embedded and network devices***
 
 Out team is working hard on the development of:
 

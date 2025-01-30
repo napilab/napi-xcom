@@ -12,7 +12,8 @@ hide_table_of_contents: true
 
 ## Mini news
 
-:fire: **Look at [screenshots](/whitepaper/screenshots/) of Napi.App** :fire:
+:fire: **Look at [screenshots](/whitepaper/screenshots/) of Napi.App** \
+:fire: **Why Napi-X. Our [manifest](/blog/2025/01/09/index).**
 
 ## What is Napi-X
 
@@ -20,8 +21,8 @@ hide_table_of_contents: true
 
 Out team is working hard on the development of:
 
-- The NapiOS operating system from strach with integrated embedded futures;
-- Powerfull API for managing devices with NapiOS;
+- The NapiOS operating system from scratch with integrated embedded futures;
+- Powerful API for managing devices with NapiOS;
 - Web applications for convenient access to the management interface.
 
 ### Components of Napi-X

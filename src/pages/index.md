@@ -6,16 +6,16 @@ hide_table_of_contents: true
 
 # Napi-X Ecosystem
 
-![napi-x](img/napi-x-first-logo-small.png)
-
 <!-- :fire: ***Everything you need to manage embedded and network devices***:fire: -->
 
-## Mini news
 
-:fire: **Look at [screenshots](/whitepaper/screenshots/) of Napi.App** \
-:fire: **Why Napi-X. Our [manifest](/blog/2025/01/09/index).**
+
+>:fire: **Look at [screenshots](/whitepaper/screenshots/) of Napi.App** \
+>:fire: **Why Napi-X. Our [manifest](/blog/2025/01/09/index).**
 
 ## What is Napi-X
+
+![napi-x](img/napi-x-first-logo-small.png)
 
 >***Everything you need to manage embedded and network devices***
 
